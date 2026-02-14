@@ -61,3 +61,4 @@ pip install pandas scikit-learn numpy
 **Samah AZIZ**  
 Étudiante en Licence Ingénierie Informatique - FST Mohammedia  
 🔗 [GitHub](https://github.com/iamsamahaziz) | [LinkedIn](https://linkedin.com/in/samah-az)
+"# burnout-prediction-app" 
